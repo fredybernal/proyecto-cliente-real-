@@ -1,17 +1,18 @@
 header{
+    width: 320px;
     height: 100px;
     background: black;
 }
 
 img{
     position: absolute;
-    margin-left: 25px;
-    width: 200px;
+    margin-left: 35px;
+    width: 250px;
     height: 100px;
 }
 
 .logo{
-    margin-left: 35px;
+    margin-left: 70px;
     width: 180px;
     height: 80px;
     margin-top: 80px;

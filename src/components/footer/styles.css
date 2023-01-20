@@ -1,5 +1,5 @@
 footer{
-    width: 100%;
+    width: 320PX;
     height: 80px;
     margin-top: 10px;
     background: black;
@@ -7,6 +7,6 @@ footer{
 
 .logo-footer{
     width: 150px;
-    margin-left: 50px;
+    margin-left: 85px;
     height: 80px;
 }

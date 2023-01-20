@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import NavBar from './components/nav_bar/nav_bar';
 import Header from './components/header/header';
-import Body from './components/body/body';
+import Main from './components/body/Main';
 import Footer from './components/footer/footer';
 
 function App() {
@@ -10,7 +10,7 @@ function App() {
     <>
       <NavBar />
       <Header />
-      <Body/>
+      <Main/>
       <Footer/>
     </>
   );

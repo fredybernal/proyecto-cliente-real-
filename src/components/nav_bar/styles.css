@@ -1,6 +1,7 @@
 
 
 nav{
+    width: 320PX;
     height: 40px;
     background: #00c2cb;
     
@@ -9,7 +10,7 @@ nav{
 
 nav ul{
     display: grid;
-    grid-template-columns: 90px 45px 80px auto;
+    grid-template-columns: 130px 60px 90px auto;
     list-style-type: none;
     line-height: 40px;
     width: 100%;
