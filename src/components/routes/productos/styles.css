@@ -1,0 +1,27 @@
+div ul li{
+    list-style-type: none;
+    text-align: center;
+}
+
+div ul {
+    display: grid;
+    grid-template-columns: 100px 100px 100px ;
+    margin: 0;
+    padding: 0;
+    margin-left: 15px;
+}
+
+ul {
+    color: black;
+    width: 72px;
+}
+
+ul a:hover{
+    background-color: #00c2cb;
+}
+
+h1{
+    margin-left: 10px;
+}
+
+

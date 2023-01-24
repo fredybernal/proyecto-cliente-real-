@@ -3,10 +3,9 @@
 nav{
     width: 320PX;
     height: 40px;
-    background: #00c2cb;
-    
-   
+     
 }
+
 
 nav ul{
     display: grid;
@@ -16,7 +15,9 @@ nav ul{
     width: 100%;
     margin: 0;
     padding: 0;
+    background: #00c2cb;
 }
+
 
 nav ul li {
     margin-left: 5px;
@@ -25,3 +26,9 @@ nav ul li {
 .car{
     margin-right: 5px;
 }
+
+a:-webkit-any-link {
+    color: black;
+    text-decoration: none;
+}
+
